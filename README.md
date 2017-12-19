@@ -31,3 +31,7 @@ npm install -g serve
 serve -s build
 
 ```
+
+项目效果：
+
+![demo](public/build.png)
