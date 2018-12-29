@@ -1,5 +1,7 @@
 ## 基于create-react-app创建的todo-list
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kelier/react-todo-list.svg)](https://greenkeeper.io/)
+
 作为react的起手式，todolist可以先拆分为一个盒子+盒子里要做的事情
 
 todolist=todobox+listitem+dialog
